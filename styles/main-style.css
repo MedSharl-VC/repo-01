@@ -6,6 +6,7 @@
 
 header {
   background-color: lightgreen;
+  border-bottom: 1px solid #000;
 }
 
 header h1 {
