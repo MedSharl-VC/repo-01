@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+header {
+  background-color: lightgreen;
+}
+
+header h1 {
+  padding: 15px;
+  text-align: center;
+}
+
+main {
+  font-size: 25px;
+  padding: 25vw;
+  background-color: skyblue;
+  text-align: center;
+}
